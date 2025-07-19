@@ -1,0 +1,2 @@
+# PlsdonateUpdate
+Pls donate scirpt
